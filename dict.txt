@@ -1,0 +1,10 @@
+apple;trai tao
+black;mau den
+can;co the
+date;ngay
+eat;an
+fail;that bai
+good; tot
+hello;xin chao
+kitchen;con ga
+tall;cao
